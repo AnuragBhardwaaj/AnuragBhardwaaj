@@ -1,7 +1,7 @@
-<!-- 🌌 DARK THEMED README WITH CLICKABLE TECH ICONS -->
+<!-- 🌌 DARK THEMED README WITH RESPONSIVE TYPING INTRO + CLICKABLE ICONS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Anurag+Bhardwaj+👋;Full-Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+and+Secure+Apps+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Anurag+Bhardwaj+👋;Full-Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+and+Secure+Apps+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -61,14 +61,6 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 </p>
-
----
-
-### 💡 What I Do
-- ⚙️ Design and develop **secure REST APIs** and scalable backend systems  
-- 🎨 Build interactive **React + Tailwind** frontends with seamless UX  
-- ☁️ Work with **Docker**, **Kubernetes**, and **AWS** for deployment  
-- 🧩 Solve **DSA problems** daily to strengthen logic and optimization  
 
 ---
 
