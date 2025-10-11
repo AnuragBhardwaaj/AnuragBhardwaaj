@@ -1,8 +1,14 @@
 <!-- 🌌 DARK THEMED README WITH RESPONSIVE TYPING INTRO + CLICKABLE ICONS -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&width=100%25&lines=Hey+there!+I'm+Anurag+Bhardwaj+👋;Full-Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+and+Secure+Apps+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=390&height=50&lines=Hey+there!+I'm+Anurag+Bhardwaj+👋;Full-Stack+Developer;Building+Secure+and+Scalable+Apps+🚀"
+  alt="Typing SVG"
+  style="max-width:100%;height:auto;"
+/>
+
+</div>
 
 
 <p align="center">
