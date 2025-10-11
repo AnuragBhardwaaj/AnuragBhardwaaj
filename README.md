@@ -1,5 +1,3 @@
-<!-- 🌌 DARK THEMED README WITH RESPONSIVE TYPING INTRO + CLICKABLE ICONS -->
-
 <div align="center">
 
 <img
@@ -9,6 +7,7 @@
 />
 
 </div>
+
 
 <p align="center">
   <a href="https://github.com/AnuragBhardwaaj"><img src="https://img.shields.io/badge/GitHub-AnuragBhardwaaj-171515?style=for-the-badge&logo=github"></a>
@@ -29,31 +28,60 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Clickable Icons)
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript&theme=dark" /></a>
+  <!-- Languages -->
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" /></a>
+  <!-- Frontend -->
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /></a>
+  <!-- Backend & DB -->
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman,vscode&theme=dark" /></a>
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 </p>
+
+---
+
+### 💡 What I Do
+- ⚙️ Design and develop **secure REST APIs** and scalable backend systems  
+- 🎨 Build interactive **React + Tailwind** frontends with seamless UX  
+- ☁️ Work with **Docker**, **Kubernetes**, and **AWS** for deployment  
+- 🧩 Solve **DSA problems** daily to strengthen logic and optimization  
 
 ---
 
 ### 🧩 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/AnuragBhardwaaj/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://www.codechef.com/users/clean_vivid_84" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1F1F1F?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://www.codechef.com/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1F1F1F?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 <p align="center">
