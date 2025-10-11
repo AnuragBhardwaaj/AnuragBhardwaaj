@@ -1,7 +1,7 @@
-<!-- 🌌 DARK THEMED PROFESSIONAL README FOR ANURAG BHARDWAJ -->
+<!-- 🌌 DARK THEMED README WITH CLICKABLE TECH ICONS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anurag+Bhardwaj+👋;Full-Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+and+Secure+Apps+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Anurag+Bhardwaj+👋;Full-Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+and+Secure+Apps+🚀">
 </p>
 
 <p align="center">
@@ -17,21 +17,49 @@
 > I spend my days engineering full-stack solutions — and nights cracking problems on LeetCode.
 
 - 🎓 **B.E in Computer Science & Business Systems** — DSCE (2022–2026)
-- 💻 **Focus Areas:** Full-Stack Dev | API Security | Cloud & DevOps | DSA
+- 💻 **Focus Areas:** Full-Stack Dev | API Security | Cloud & DevOps | DSA  
 - ☁️ Currently learning **System Design** & **Distributed Systems**
 - 🎯 *"Turning caffeine into clean code since 2022."*
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Clickable Icons)
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&theme=dark" /><br>
-  <!-- Frontend & Backend -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express&theme=dark" /><br>
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,kubernetes,aws,postman,vscode&theme=dark" />
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <!-- Backend & DB -->
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 </p>
 
 ---
@@ -47,8 +75,8 @@
 ### 🧩 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-1F1F1F?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://www.codechef.com/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1F1F1F?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -67,19 +95,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragBhardwaaj&theme=react-dark&bg_color=0D1117&hide_border=true&line=38C2FF&point=FFFFFF" />
 </p>
-
----
-
-### 🧭 Quick Snapshot
-
-| Category | Focus |
-|-----------|--------|
-| 💻 Languages | C, C++, JS, Python, Java |
-| ⚙️ Backend | Node.js, Express.js, REST APIs |
-| 🎨 Frontend | React, Tailwind CSS |
-| 🗄️ Databases | MongoDB, MySQL |
-| ☁️ DevOps | Docker, Kubernetes, AWS |
-| 🧠 Core CS | DSA, OOPS, DBMS, OS |
 
 ---
 
