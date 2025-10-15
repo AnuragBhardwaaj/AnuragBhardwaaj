@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/AnuragBhardwaaj/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://www.codechef.com/users/anuragnocodes" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1F1F1F?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/anurag_no_code" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1F1F1F?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 <p align="center">
