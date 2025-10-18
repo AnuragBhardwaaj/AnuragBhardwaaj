@@ -107,6 +107,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38C2FF,100:7B68EE&height=120&section=footer&text=Thanks+for+visiting!&fontAlign=50&fontAlignY=80&desc=⭐+Let's+Build+Something+Amazing+⭐&descAlignY=55&descSize=15&fontColor=ffffff"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer&text=Thanks+for+visiting!&fontAlign=50&fontAlignY=40&desc=✨+Happy+Coding!+✨&descAlignY=85&descSize=14&fontColor=ffffff" />
+</div>
+
