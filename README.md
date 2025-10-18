@@ -72,7 +72,6 @@
 ### 💡 What I Do
 - ⚙️ Design and develop **secure REST APIs** and scalable backend systems  
 - 🎨 Build interactive **React + Tailwind** frontends with seamless UX  
-- ☁️ Work with **Docker**, **Kubernetes**, and **AWS** for deployment  
 - 🧩 Solve **DSA problems** daily to strengthen logic and optimization  
 
 ---
