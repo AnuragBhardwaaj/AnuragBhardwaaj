@@ -24,11 +24,10 @@
 - 🎓 **B.E in Computer Science & Business Systems** — DSCE (2022–2026)
 - 💻 **Focus Areas:** Full-Stack Dev | API Security | Cloud & DevOps | DSA  
 - ☁️ Currently learning **System Design** & **Distributed Systems**
-- 🎯 *"Turning caffeine into clean code since 2022."*
 
 ---
 
-### 🛠️ Tech Stack (Clickable Icons)
+### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -103,7 +102,7 @@
 ---
 
 ### 🌌 Fun Fact
-> I love debugging — it’s like solving mysteries with caffeine and stack traces ☕💻
+> Debugging is tiring as hell, but once you figure it out, its the most relieving feeling ever.
 
 ---
 
